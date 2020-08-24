@@ -1,6 +1,4 @@
-### Hi there 👋🏻
-
-Here are some ideas to get you started:
+### Hi there 👋🏻 , I'm Ishaan.
 
 - 🔭 Currently working on a personal embedded project⚡️
 - 🌱 Discovering the field of Artifical intelligence
